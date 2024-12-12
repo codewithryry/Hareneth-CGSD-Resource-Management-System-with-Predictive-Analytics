@@ -8,6 +8,7 @@ Hareneth is a web-based system designed to enhance the resource management capab
 
 ## Features
 
+
 - **Inventory Management**: Manage and track the department's inventory in real time.
 - **Resource Allocation**: Efficient allocation and distribution of resources.
 - **Predictive Analytics**: Uses machine learning algorithms to predict resource demand and optimize inventory management.
